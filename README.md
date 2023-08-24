@@ -13,11 +13,11 @@ Still my passion in the C/C++ family :-)
 
 ## Profile stats 
  <div align="center"> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krush206&theme=slateorange" /> 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeonIOSTD&theme=slateorange" /> 
  </div> 
   
  <div align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krush206&langs_count=5&theme=great-gatsby"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonIOSTD&langs_count=5&theme=great-gatsby"> 
  </div> 
   
  <div align="center"> 
