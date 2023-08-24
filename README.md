@@ -31,7 +31,22 @@ Still my passion in the C/C++ family :-)
 
 
 
-
+## Skills & technologies 
+ <div align="center"> 
+   <img src="https://img.shields.io/badge/Languages:-orange" /> 
+ </div> 
+  
+ <div align="center"> 
+   <img src="https://skillicons.dev/icons?i=c" /> 
+ </div> 
+  
+ <div align="center"> 
+   <img src="https://img.shields.io/badge/Development:-orange" /> 
+ </div> 
+  
+ <div align="center"> 
+   <img src="https://skillicons.dev/icons?i=git,vim,nvim" />  
+ </div>
 
 <!---
 NeonIOSTD/NeonIOSTD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
