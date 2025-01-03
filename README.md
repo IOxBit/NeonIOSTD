@@ -1,52 +1,36 @@
-<div align="center"> 
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+NeoIO%21+%F0%9F%91%8B"> 
- </div> 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
+<div align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=etBrains+Mono&size=35&pause=1000&center=true&vCenter=true&random=true&width=435&lines=!%CE%BBHOLA%C2%A1.+MUNDO%C2%A1">
+</div>
+
+¡Hola! Me llamo IO, soy un entusiasta de todo lo relacionado con computación y las matemáticas. De vez en cuando me incursiono en una ciencia no relacionada con estas. En las siguientes secciones dará un breve resumen de lo que «soy» ahora.
+
+# Introducción
+
+[En construcción]
+
+# Fichas resumidas
+
+
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IOxBit&theme=apprentice">
+</div>
  
-I like programming, and I hope you like my profile. I always try to have interesting things
 
-I am learning the following languages: C, C++
-I am interested in the following: Hackell, Smaltack
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IOxBit&theme=apprentice">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IOxBit&theme=apprentice">
+</div>
 
-Still my passion in the C/C++ family :-)
+<div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IOxBit&theme=apprentice">
+</div>
 
-
-
-## Profile stats 
- <div align="center"> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeonIOSTD&theme=slateorange" /> 
- </div> 
-  
- <div align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonIOSTD&langs_count=5&theme=great-gatsby"> 
- </div> 
-  
- <div align="center"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=NeonIOSTD&theme=rising-sun&hide_border=true" /> 
- </div> 
-  
- <div align="center"> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NeonIOSTD&theme=slateorange" /> 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NeonIOSTD&theme=slateorange" /> 
- </div>
-
-
-
-## Skills & technologies 
- <div align="center"> 
-   <img src="https://img.shields.io/badge/Languages:-orange" /> 
- </div> 
-  
- <div align="center"> 
-   <img src="https://skillicons.dev/icons?i=c" /> 
- </div> 
-  
- <div align="center"> 
-   <img src="https://img.shields.io/badge/Development:-orange" /> 
- </div> 
-  
- <div align="center"> 
-   <img src="https://skillicons.dev/icons?i=git,vim,nvim" />  
- </div>
+<div align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=IOxBit&theme=earth&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+</div>
 
 
 
